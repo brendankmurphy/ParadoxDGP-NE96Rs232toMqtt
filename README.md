@@ -6,7 +6,7 @@ Materials used:
   - 5V to 3.3V logic level converter
 
 1) Use 5v power supply from alarm panel for Vin on ESP8266
-2) Using Logic level converter to drop to safe 3.3v, wire RX/TX pins of ESP8266 to first two pins of Serial Port on the alarm panel.
+2) Using Logic level converter to drop 5V serial signals from alarm panel to a safe 3.3v, wire RX/TX pins of ESP8266 to first two pins of Serial Port on the alarm panel.
 
 Remaining set up follows the Margelis ParadoxRs232toMqtt project
 
