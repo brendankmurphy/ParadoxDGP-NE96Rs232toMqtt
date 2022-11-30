@@ -8,3 +8,4 @@ Materials used:
 1) Use 5v power supply from alarm panel for Vin on ESP8266
 2) Using Logic level converter to drop to safe 3.3v, wire RX/TX pins of ESP8266 to first two pins of Serial Port on the alarm panel.
 
+Remaining set up follows the Margelis ParadoxRs232toMqtt project
